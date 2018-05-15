@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buyTokens"
+        android:title="Buy Tokens"
+        android:icon="@drawable/ic_menu_send"/>
+
+    <item
+        android:id="@+id/shareTokens"
+        android:title="Share Tokens"
+        android:icon="@drawable/fbshare"/>
+</menu>
